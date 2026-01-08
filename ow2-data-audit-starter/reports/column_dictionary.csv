@@ -1,0 +1,132 @@
+column,dtype,missing_pct,unit_inferred,is_core
+Hero,object,0.0,categorical,True
+Skill Tier,object,0.0,categorical,True
+KDA Ratio,float64,0.0,unknown,True
+"Pick Rate, %",float64,0.0,percent (0-100),True
+"Win Rate, %",float64,0.0,percent (0-100),True
+Eliminations / 10min,float64,0.0,per 10 minutes,True
+Objective Kills / 10min,float64,0.0,per 10 minutes,True
+Objective Time / 10min,int64,0.0,per 10 minutes,True
+Damage / 10min,int64,0.0,per 10 minutes,True
+Deaths / 10min,float64,0.0,per 10 minutes,True
+Role,object,0.0,categorical,True
+"Weapon Accuracy, %",float64,27.78,percent (0-100),False
+Final Blows / 10min,float64,52.78,per 10 minutes,False
+Solo Kills / 10min,float64,52.78,per 10 minutes,False
+Objective Contest Time / 10min,float64,69.44,per 10 minutes,False
+"Crit Accuracy, %",float64,72.22,percent (0-100),False
+Healing / 10min,float64,75.0,per 10 minutes,False
+"Secondary Accuracy, %",float64,88.89,percent (0-100),False
+Self Healing / 10min,float64,88.89,per 10 minutes,False
+"Scoped Accuracy, %",float64,91.67,percent (0-100),False
+Damage Amplified / 10min,float64,91.67,per 10 minutes,False
+Long Range Kills / 10min,float64,91.67,per 10 minutes,False
+"Primary Accuracy, %",float64,91.67,percent (0-100),False
+Overhealth / 10min,float64,91.67,per 10 minutes,False
+Recon Assists / 10min,float64,94.44,per 10 minutes,False
+Direct Hits,float64,94.44,unknown,False
+Biotic Grenade Kills / 10min,float64,97.22,per 10 minutes,False
+Enemies Slept / 10min,float64,97.22,per 10 minutes,False
+Healing Amplified / 10min,float64,97.22,per 10 minutes,False
+Nano Boost Assists / 10min,float64,97.22,per 10 minutes,False
+Blaster Kills / 10min,float64,97.22,per 10 minutes,False
+Players Resurrected / 10min,float64,97.22,per 10 minutes,False
+Deadeye Kills / 10min,float64,97.22,per 10 minutes,False
+Magnetic Grenade Attaches,float64,97.22,unknown,False
+Magnetic Grenade Kills / 10min,float64,97.22,per 10 minutes,False
+Swift Strike Resets / 10min,float64,97.22,per 10 minutes,False
+Damage Reflected / 10min,float64,97.22,per 10 minutes,False
+Ultimates Reflected / 10min,float64,97.22,per 10 minutes,False
+Dragonblade Kills / 10min,float64,97.22,per 10 minutes,False
+Kunai Kills / 10min,float64,97.22,per 10 minutes,False
+Effects Cleansed / 10min,float64,97.22,per 10 minutes,False
+Kitsune Rush Assists / 10min,float64,97.22,per 10 minutes,False
+Biotic Orb Kills / 10min,float64,97.22,per 10 minutes,False
+"Ally Coalescence Efficiency, %",float64,97.22,percent (0-100),False
+"Enemy Coalescence Efficiency, %",float64,97.22,percent (0-100),False
+Coalescence Kills / 10min,float64,97.22,per 10 minutes,False
+Charge Kills / 10min,float64,97.22,per 10 minutes,False
+Fire Strike Kills / 10min,float64,97.22,per 10 minutes,False
+Earthshatter Kills / 10min,float64,97.22,per 10 minutes,False
+Storm Arrow Kills / 10min,float64,97.22,per 10 minutes,False
+Dragonstrike Kills / 10min,float64,97.22,per 10 minutes,False
+Venom Mine Kills / 10min,float64,97.22,per 10 minutes,False
+"Helix Rocket Accuracy, %",float64,97.22,percent (0-100),False
+Helix Rocket Kills / 10min,float64,97.22,per 10 minutes,False
+Tactical Visor Kills / 10min,float64,97.22,per 10 minutes,False
+"Charged Volley Accuracy, %",float64,97.22,percent (0-100),False
+Charged Volley Kills / 10min,float64,97.22,per 10 minutes,False
+Transcendence Healing / 10min,float64,97.22,per 10 minutes,False
+Knockbacks / 10min,float64,97.22,per 10 minutes,False
+Sound Barriers / 10min,float64,97.22,per 10 minutes,False
+"Micro Missile Kills, % / 10min",float64,97.22,percent (0-100),False
+Call Mech Kills / 10min,float64,97.22,per 10 minutes,False
+Self-Destruct Kills / 10min,float64,97.22,per 10 minutes,False
+Concussion Mine Kills / 10min,float64,97.22,per 10 minutes,False
+Enemies Trapped / 10min,float64,97.22,per 10 minutes,False
+Coach Gun Kills / 10min,float64,97.22,per 10 minutes,False
+Dynamite Kills / 10min,float64,97.22,per 10 minutes,False
+Bob Kills / 10min,float64,97.22,per 10 minutes,False
+Low Health Recalls / 10min,float64,97.22,per 10 minutes,False
+Pulse Bombs Stuck / 10min,float64,97.22,per 10 minutes,False
+Pulse Bomb Kills / 10min,float64,97.22,per 10 minutes,False
+Chain Hook Kills / 10min,float64,97.22,per 10 minutes,False
+"Chain Hook Accuracy, %",float64,97.22,percent (0-100),False
+Whole Hog Kills / 10min,float64,97.22,per 10 minutes,False
+High Energy Kills / 10min,float64,97.22,per 10 minutes,False
+"Average Energy, %",float64,97.22,percent (0-100),False
+Graviton Surge Kills / 10min,float64,97.22,per 10 minutes,False
+Death Blossom Kills / 10min,float64,97.22,per 10 minutes,False
+Healing Accuracy,float64,97.22,unknown,False
+Deaths Prevented / 10min,float64,97.22,per 10 minutes,False
+Amp Matrix Assists / 10min,float64,97.22,per 10 minutes,False
+Energy Javelin Kills / 10min,float64,97.22,per 10 minutes,False
+Javelin Spin Kills / 10min,float64,97.22,per 10 minutes,False
+Terra Surge Kills / 10min,float64,97.22,per 10 minutes,False
+"Airtime, %",float64,97.22,percent (0-100),False
+Barrage Kills / 10min,float64,97.22,per 10 minutes,False
+Accretion Kills / 10min,float64,97.22,per 10 minutes,False
+Gravitic Flux Kills / 10min,float64,97.22,per 10 minutes,False
+Rocket Punch Kills / 10min,float64,97.22,per 10 minutes,False
+Seismic Slam Kills / 10min,float64,97.22,per 10 minutes,False
+Meteor Strike Kills / 10min,float64,97.22,per 10 minutes,False
+Inspire Uptime,float64,97.22,unknown,False
+"Icicle Accuracy, % / 10min",float64,97.22,percent (0-100),False
+"Icicle Crit Accuracy, % / 10min",float64,97.22,percent (0-100),False
+Enemies Frozen / 10min,float64,97.22,per 10 minutes,False
+Blizzard Kills / 10min,float64,97.22,per 10 minutes,False
+Jump Pack Kills / 10min,float64,97.22,per 10 minutes,False
+Primal Rage Kills / 10min,float64,97.22,per 10 minutes,False
+Recon Kills / 10min,float64,97.22,per 10 minutes,False
+Assault Kills / 10min,float64,97.22,per 10 minutes,False
+Tactical Grenade Kills / 10min,float64,97.22,per 10 minutes,False
+Artillery Kills / 10min,float64,97.22,per 10 minutes,False
+Enemies Hacked / 10min,float64,97.22,per 10 minutes,False
+Low Health Teleports / 10min,float64,97.22,per 10 minutes,False
+EMP Kills / 10min,float64,97.22,per 10 minutes,False
+Grappling Claw Kills / 10min,float64,97.22,per 10 minutes,False
+Piledriver Kills / 10min,float64,97.22,per 10 minutes,False
+"Charged Shot Accuracy, %",float64,97.22,percent (0-100),False
+"Charged Crit Accuracy, %",float64,97.22,percent (0-100),False
+Charged Shot Kills / 10min,float64,97.22,per 10 minutes,False
+Disruptor Shot Kills / 10min,float64,97.22,per 10 minutes,False
+Overclock Kills / 10min,float64,97.22,per 10 minutes,False
+Average Damage Multiplier,float64,97.22,unknown,False
+Players Teleported / 10min,float64,97.22,per 10 minutes,False
+Sentry Turret Kills / 10min,float64,97.22,per 10 minutes,False
+Hammer Kills / 10min,float64,97.22,per 10 minutes,False
+Turret Kills / 10min,float64,97.22,per 10 minutes,False
+Molten Core Kills / 10min,float64,97.22,per 10 minutes,False
+"Pummel Accuracy, %",float64,97.22,percent (0-100),False
+Pummel Kills / 10min,float64,97.22,per 10 minutes,False
+Ravenous Vortex Kills / 10min,float64,97.22,per 10 minutes,False
+Annihilation Kills / 10min,float64,97.22,per 10 minutes,False
+"Jagged Blade Accuracy, %",float64,97.22,percent (0-100),False
+Carnage Kills / 10min,float64,97.22,per 10 minutes,False
+"Wound Uptime, %",float64,97.22,percent (0-100),False
+Rampage Kills / 10min,float64,97.22,per 10 minutes,False
+"Focusing Beam Accuracy, %",float64,97.22,percent (0-100),False
+Focusing Beam Kills / 10min,float64,97.22,per 10 minutes,False
+"Sticky Bomb Accuracy, %",float64,97.22,percent (0-100),False
+Sticky Bomb Kills / 10min,float64,97.22,per 10 minutes,False
+Duplicate Kills / 10min,float64,97.22,per 10 minutes,False

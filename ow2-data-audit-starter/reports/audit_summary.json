@@ -1,0 +1,46 @@
+{
+  "dataset_file": "data/raw/ow2_quickplay_heroes_stats__2023-05-06.csv",
+  "rows": 288,
+  "columns": 131,
+  "heroes": 36,
+  "skill_tiers": 8,
+  "skill_tier_values": [
+    "All",
+    "Bronze",
+    "Silver",
+    "Gold",
+    "Platinum",
+    "Diamond",
+    "Master",
+    "Grandmaster"
+  ],
+  "role_values": [
+    "Damage",
+    "Support",
+    "Tank"
+  ],
+  "grain": "Hero x Skill Tier",
+  "duplicate_hero_tier_rows": 0,
+  "grain_violations": 0,
+  "missing_tiers_by_hero_count": 0,
+  "percent_columns_count": 24,
+  "per10_columns_count": 101,
+  "percent_out_of_range_columns": [],
+  "negative_per10_columns": [],
+  "role_inconsistencies": [],
+  "core_columns_count": 11,
+  "core_columns": [
+    "Hero",
+    "Skill Tier",
+    "KDA Ratio",
+    "Pick Rate, %",
+    "Win Rate, %",
+    "Eliminations / 10min",
+    "Objective Kills / 10min",
+    "Objective Time / 10min",
+    "Damage / 10min",
+    "Deaths / 10min",
+    "Role"
+  ],
+  "generated_at": "2026-01-08T22:25:42.915102Z"
+}

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Data (keep locally; don't commit large/raw files)
+data/raw/*
+!data/raw/.gitkeep
+
+# Outputs
+reports/*.png
+reports/*.html
+
+echo ".DS_Store" >> .gitignore
